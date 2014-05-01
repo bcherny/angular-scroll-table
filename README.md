@@ -1,6 +1,8 @@
 angular-sticky-table-header
 ===================
 
+![Screenshot](https://raw.githubusercontent.com/turn/angular-scroll-table/master/screenshot.png)
+
 ### dependencies
 
 - angular 1.0.8

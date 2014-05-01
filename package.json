@@ -1,0 +1,11 @@
+{
+  "name": "angular-scroll-table",
+  "version": "0.0.1",
+  "description": "Keep your table header in place while scrolling",
+  "main": "angular-scroll-table.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boris Cherny <bcherny@turn.com>",
+  "license": "Apache2"
+}

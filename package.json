@@ -6,6 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Boris Cherny <bcherny@turn.com>",
+  "author": "Boris Cherny <boris@performancejs.com>",
   "license": "Apache2"
 }

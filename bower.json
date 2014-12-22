@@ -4,7 +4,7 @@
   "description": "Keep your table header in place while scrolling",
   "main": "angular-scroll-table.js",
   "authors": [
-    "Boris Cherny <bcherny@turn.com>"
+    "Boris Cherny <boris@performancejs.com>"
   ],
   "license": "Apache2",
   "dependencies": {
